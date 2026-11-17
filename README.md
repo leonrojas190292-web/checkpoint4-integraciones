@@ -1,7 +1,7 @@
 # Checkpoint 4 – Integraciones: HubSpot · Gmail · Slack
 
-**Alumno:** Leo Rojas
-**Archivo:** `checkpoint4_leo_rojas.json`
+**Alumno:** Leonel Rojas
+**Archivo:** `checkpoint4_leonel_rojas.json`
 **Workflow en n8n:** M4 - Manager - Integraciones CRM · Gmail · Slack
 
 Este checkpoint parte del Manager con memoria del Módulo 3. Le sumé una segunda puerta de entrada, la casilla de Gmail, y conecté el agente con tres herramientas reales por OAuth2: **HubSpot** como CRM, **Gmail** como casilla de soporte y **Slack** como canal del equipo (#operaciones). El chat del M3 sigue funcionando igual. Cuando el mensaje entra por email, al final pasa además por el CRM, el borrador y el aviso al equipo.
